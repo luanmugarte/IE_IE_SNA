@@ -16,8 +16,8 @@ The database had more publications from UFRJ, which resulted in a more dense net
 
 *IE-UNICAMP Network*
 
-![IE-Unicamp network](/home/luanmugarte/Artigos/IE_IE_SNA/Output/ieunicamp.png)
+![IE-Unicamp network](https://github.com/luanmugarte/IE_IE_SNA/blob/main/Output/ieunicamp.png)
 
 *IE-UFRJ Network*
 
-![IE-Unicamp network](/home/luanmugarte/Artigos/IE_IE_SNA/Output/ieufrj.png)
+![IE-Unicamp network](https://github.com/luanmugarte/IE_IE_SNA/blob/main/Output/ieufrj.png)
